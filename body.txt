@@ -1,0 +1,15 @@
+head
+eyes
+nose
+mouth
+ears
+neck
+shoulders
+chest
+arms
+hands
+fingers
+stomach
+back
+legs
+feet

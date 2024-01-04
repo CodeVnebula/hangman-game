@@ -1,0 +1,15 @@
+lion
+elephant
+giraffe
+monkey
+tiger
+kangaroo
+zebra
+panda
+cheetah
+dolphin
+koala
+rhinoceros
+penguin
+crocodile
+parrot

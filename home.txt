@@ -1,0 +1,15 @@
+table
+chair
+sofa
+bed
+lamp
+clock
+mirror
+refrigerator
+microwave
+pillow
+blanket
+kitchen
+window
+door
+plant

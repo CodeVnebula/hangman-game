@@ -1,0 +1,15 @@
+mathematics
+english
+science
+history
+ceography
+physics
+chemistry
+biology
+literature
+programming
+art
+music
+sports
+economics
+spanish

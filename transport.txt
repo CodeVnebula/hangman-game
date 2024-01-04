@@ -1,0 +1,15 @@
+car
+bicycle
+airplane
+boat
+train
+bus
+motorcycle
+helicopter
+subway
+skateboard
+taxi
+ship
+scooter
+truck
+balloon

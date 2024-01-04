@@ -1,0 +1,15 @@
+doctor
+engineer
+teacher
+firefighter
+musician
+chef
+astronaut
+plumber
+architect
+scientist
+journalist
+mechanic
+artist
+nurse
+electrician

@@ -1,0 +1,15 @@
+laptop
+desktop
+keyboard
+mouse
+monitor
+printer
+software
+hardware
+internet
+database
+programming
+algorithm
+code
+cybersecurity
+encryption

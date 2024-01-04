@@ -1,0 +1,15 @@
+pen
+pencil
+eraser
+ruler
+notebook
+scissors
+glue
+stapler
+paperclip
+highlighter
+marker
+tape
+folder
+binder
+calculator

@@ -1,0 +1,15 @@
+pizza
+spaghetti
+chocolate
+hamburger
+broccoli
+sushi
+icecream
+sandwich
+pancakes
+pineapple
+lasagna
+avocado
+popcorn
+strawberry
+watermelon
