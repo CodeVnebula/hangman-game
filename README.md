@@ -18,7 +18,7 @@ Hangman Game is a console-based game implemented in C++.
 6. Win the game by correctly guessing the word or lose by running out of tries.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/RsGioRs/hangman-game.git`
+1. Clone the repository: `git clone https://github.com/RsGiosR/hangman-game.git`
 2. Compile the code using a C++ compiler.
 
 ## Usage
